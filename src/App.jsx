@@ -6,7 +6,7 @@ import { useState, useEffect } from "react"
 
 function App() {
   const [todos, setTodos] = useState([
-    { input: "Mingaw nko nmu 😭", complete: false}
+    { input: "Mingaw nko nmu gerlie 😭", complete: false}
   ])
   const [selectedTab, setSelectedTab] = useState('Open')
 
